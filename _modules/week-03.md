@@ -11,7 +11,7 @@ Dec 4
 
 Dec 11
 : **No Class**{: .label .label-red }
-  : -
+
 
 Dec 18
 : **Lab**{: .label .label-purple } [Classification and Classical Machine Learning](#)

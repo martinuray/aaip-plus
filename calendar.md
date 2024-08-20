@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: Schedule
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Course Schedule
 
 {: .note }
 > This schedule is tentative and will be changed according to progress and 
