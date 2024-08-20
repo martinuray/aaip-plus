@@ -17,8 +17,8 @@ title: Applied AI with Python
 tagline: Applied AI with Python
 description: Course Applied AI with Python at the Paris Lodron University Salzburg
 author: Martin Uray
-baseurl: '/aaip' # the subpath of your site, e.g. /blog
-url: 'https://martinuray.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/aaip-plus' # the subpath of your site, e.g. /blog
+url: 'https://martinuray.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
