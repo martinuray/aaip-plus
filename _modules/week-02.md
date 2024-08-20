@@ -1,23 +1,30 @@
 ---
-title: Basic Data Structures
+title: Introduction to Data Analysis + Visualisation
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Oct 30
+: [Numpy & Pandas](#)
+  : -
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+{% comment %}
+  : [2.1](#)
+: **HW 1 due**{: .label .label-red }
+{% endcomment %}
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Nov 6
+: [Matplotlib, Seaborn & Plotly](#)
+  : -
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Nov 13
+: [Visualization 101](#)
+  : -
+: **Project**{: .label .label-green } [Introdoction to the Project](#)
+  : -
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Nov 20
+: **Lab**{: .label .label-purple } [Categorical Data](#) & [Geographical Data](#)
+  : -
+
+Nov 27
+: **Lab**{: .label .label-purple } [Continues Data](#) & [Time Series Data](#)
+  : -
