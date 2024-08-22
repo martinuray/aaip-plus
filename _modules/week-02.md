@@ -18,7 +18,7 @@ Nov 6
 Nov 13
 : [Visualization 101](#)
   : -
-: **Project**{: .label .label-green } [Introdoction to the Project](#)
+: **Project**{: .label .label-green } [Introdoction to the Project](../project)
   : -
 
 Nov 20
