@@ -87,6 +87,23 @@ legend, and labeling.
 > Further scope is still tbd
 
 
+## Getting to know the Dataset and the EDA
+So to get started, you should first get to know the dataset.
+To give you a head start, there are some predefined questions you can 
+answer, to get an initial understanding of the dataset.
+
+To start off, use 
+[**this Jupyter Notebook**{: .label .label-green }](../assets/course_material/notebooks/FinalProject_EDA.ipynb).
+This notebook contains some initial questions and code snippets to get you
+started with the dataset.
+
+**Done with those questions?** 
+Start working on your own questions!
+What is of interest to you? 
+Try to find a question that you can answer with the dataset and that is
+interesting to you.
+
+
 ## The Final Presentation
 The final presentation will take place as a poster session on the very last 
 day of the course, as communicated via schedule.
