@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Course Syllabus
 description: >-
     Course policies and information.
 ---
 
-# About
+# Course Syllabus
 {:.no_toc}
 
 ## Table of contents
@@ -54,6 +54,7 @@ Such a case will be communicated via e-mail.
 > Grading is still tbd
 
 ### Grading Scale
+{: .no_toc }
 
 | Upper Bound (incl.) | Lower Bound ( excl.) | Grade |
 |:---:|:---:|:---:|
@@ -74,18 +75,16 @@ The content of the lecture matierial is based on the following ressources:
 
 
 ## Contact
-I can only be contacted on my SUAS e-mail address.
+I can only be contacted on my SUAS e-mail address, as I do not check my PLUS 
+address on regular basis.
 
 {: .warning }
 > I only answer e-mails from PLUS adresses. E-Mails from private 
 > adresses may be dropped by the incoming mail server, overseen or 
 > mistakingly considered as spam.
 
-{: .caution } 
-> I do not check my PLUS address regularly.
 
-
-### Office Hours
-I don't hold regular office hours, and I am not available at PLUS in 
-presence on a regular basis.
-If you need to talk to me, reach out to me via e-mail.
+{: .note }
+> I don't hold regular office hours, and I am not available at PLUS in 
+> presence on a regular basis.
+> If you need to talk to me, reach out to me via e-mail.
