@@ -5,7 +5,7 @@ title: Introduction to Python
 Oct 2
 : [Course Introduction](#)
   : [David Kriesel - Bahn Mining](https://youtu.be/0rb9CfOvojk?si=zoUYxKx_XT4rTkuf),
-  [Setup Python Conda Environment](#)
+  [Setup Python Conda Environment](../sites/conda)
 
 Oct 9
 : [Intro to Python I](#)
