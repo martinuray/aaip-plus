@@ -6,11 +6,6 @@ Oct 30
 : [Numpy & Pandas](#)
   : -
 
-{% comment %}
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
-{% endcomment %}
-
 Nov 6
 : [Matplotlib, Seaborn & Plotly](#)
   : -
@@ -18,7 +13,7 @@ Nov 6
 Nov 13
 : [Visualization 101](#)
   : -
-: **Project**{: .label .label-green } [Introdoction to the Project](../project)
+: **Project**{: .label .label-green } [Introduction to the Project](../sites/project)
   : -
 
 Nov 20
