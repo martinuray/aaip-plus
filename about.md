@@ -59,7 +59,7 @@ Such a case will be communicated via e-mail.
 | Upper Bound (incl.) | Lower Bound ( excl.) | Grade |
 |:---:|:---:|:---:|
 | 100 % | 87.5 % | 1 |
-| 87.5 % | 75 & | 2 |
+| 87.5 % | 75 % | 2 |
 | 75 % | 62.5 % | 3 |
 | 62.5 % | 50 % | 4 |
 | 50 % |  | 5 |
