@@ -30,7 +30,7 @@ We focus on three aspects during this course:
 
 ## Attendance
 
-This course has mandatory attendance in ALL classes. You may miss only $4$ classes.
+This course has mandatory attendance in ALL classes. You may miss only 4 classes.
 
 {: .warning }
 > Attendance checks will be performed every week!
@@ -58,10 +58,10 @@ Such a case will be communicated via e-mail.
 
 | Upper Bound (incl.) | Lower Bound ( excl.) | Grade |
 |:---:|:---:|:---:|
-| 100 % | 92 % | 1 |
-| 92 % | 78 & | 2 |
-| 78 % | 64 % | 3 |
-| 64 % | 50 % | 4 |
+| 100 % | 87.5 % | 1 |
+| 87.5 % | 75 & | 2 |
+| 75 % | 62.5 % | 3 |
+| 62.5 % | 50 % | 4 |
 | 50 % |  | 5 |
 
 
