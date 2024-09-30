@@ -30,7 +30,7 @@ We focus on three aspects during this course:
 
 ## Attendance
 
-This course has mandatory attendance in ALL classes. You may miss only 4 classes.
+This course has mandatory attendance in ALL classes. You may miss only $4$ classes.
 
 {: .warning }
 > Attendance checks will be performed every week!
@@ -50,8 +50,24 @@ Such a case will be communicated via e-mail.
 
 ## Grading
 
-{: .note } 
-> Grading is still tbd
+The final grade is composed by four individual components:
+
+|   **Format**    |                            **Exam modality**                             | **Weighting (%)** |
+|:---------------:|:------------------------------------------------------------------------:|:-----------------:|
+|    Checkups     |                      Regular Checkups during class                       |        25         |
+| Lab Assignments |                         Tick-List and submission                         |        10         |
+|  Participation  | Oral Questions to Reading+Wrap Up and Presentation of the lab submission |        25         |
+|     Project     |                       Presentation and Submission                        |        40         |
+
+
+__Checkups:__ short closed-book checkups. May be between 3--5.
+
+__Lab Assignments:__ at least 50% of the lab assignments have to be completed in order to get a positive grade.
+
+__Participation:__ Questions to each reading and wrap-up exercises or to lab assignments. This is in an interview/presentation style. Not being able to answer the questions leads to a deduction of the points. In case of the lab assignment presentation, also the points for the ticks will not be awarded.
+
+__Project:__ Introduction to the project given at a later point in time. See [class schedule](../calendar)
+
 
 ### Grading Scale
 {: .no_toc }
@@ -83,8 +99,5 @@ address on regular basis.
 > adresses may be dropped by the incoming mail server, overseen or 
 > mistakingly considered as spam.
 
-
-{: .note }
-> I don't hold regular office hours, and I am not available at PLUS in 
-> presence on a regular basis.
-> If you need to talk to me, reach out to me via e-mail.
+### Open Student Hours
+To book a time-slot with me, please use [this link](https://outlook.office.com/bookwithme/user/2cd366908de143d9a273316e1a9c3d7b@fh-salzburg.ac.at/meetingtype/rfD0uOOhv0iKbC5jiIvuyw2?bookingcode=0153722a-0d88-4463-a990-8db2086186f9&anonymous&ep=mlink).
