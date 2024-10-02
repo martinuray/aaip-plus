@@ -30,7 +30,7 @@ We focus on three aspects during this course:
 
 ## Attendance
 
-This course has mandatory attendance in ALL classes. You may miss only $4$ classes.
+This course has mandatory attendance in ALL classes. You may miss only 4 classes.
 
 {: .warning }
 > Attendance checks will be performed every week!
