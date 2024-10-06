@@ -8,8 +8,9 @@ Oct 2
   [Setup Python Conda Environment](../sites/conda)
 
 Oct 9
-: Intro to Python I
-  : -
+: [Intro to Python I](../assets/course_material/notebooks/02_PythonPrimer_I.ipynb)
+  : [Python Reference - 5. The import system](https://docs.python.org/3/reference/import.html), 
+  [Python Guide - Structuring Python Projects](https://docs.python-guide.org/writing/structure/)
 
 Oct 16
 : Intro to Python II
