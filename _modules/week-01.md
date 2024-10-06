@@ -16,5 +16,5 @@ Oct 16
   : -
 
 Oct 23
-: Intro to Python III
+: **Lab**{: .label .label-purple } Python III
   : -
