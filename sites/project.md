@@ -109,6 +109,12 @@ To start off, use
 The notebook contains some initial questions and code snippets to get you
 started with the dataset.
 
+{: .tip}
+> GeoPandas: For Windows users, with pip the installation does not work 
+> out-of-the-box. 
+> See [this link](https://towardsdatascience.com/geopandas-installation-the-easy-way-for-windows-31a666b3610f)
+> for a guide on how to install GeoPandas on Windows accordingly.
+
 **Done with those questions?** 
 Start working on your own questions!
 What is of interest to you? 
