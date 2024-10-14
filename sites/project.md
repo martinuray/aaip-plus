@@ -21,14 +21,24 @@ description: >-
 
 ---
 ## The Project
-You are given a dataset on the modern _Olympic Games_, including all games 
-from Athens 1896 to Rio 2016. 
-The dataset is provided on Moodle. 
-Your task is to visualize a specific aspect of the dataset and deliver the 
-processed information in form of an **A3 poster** (or bigger - details below).
+In this project, you will explore a dataset containing detailed information 
+about the modern Olympic Games, spanning from Athens 1896 to Rio 2016. 
+The dataset, which is available on Moodle or Kaggle, includes data on athletes, 
+events, countries, and medal counts over this time period.
 
-{: .note } 
-> Further description is still tbd
+Your task is to select a specific aspect of this dataset to visualize, such as:
+
+- The evolution of participating nations and athletes over time
+- Medal distributions by country, gender, or sport
+- Trends in the performance of specific countries or regions
+- The impact of political events (e.g., boycotts) on participation or results
+- Any other topic of your interest related to the Olympic Games
+
+The goal is to present your findings and insights in a visual format using 
+charts, graphs, or infographics. 
+Your final deliverable will be an A3 poster (or larger, depending on your 
+preference) that clearly communicates your chosen aspect of the Olympic Games.   
+
 
 ## The Dataset
 The dataset can be found [here on Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
@@ -81,10 +91,12 @@ This topic should focus on a specific aspect of the  dataset, e.g.
 Use different visualization options to show in-depth analyses of your topic.
 Besides "basic" plots, think of including maps for geographic distributions, 
 show time series, and be sensitive about choices of colors, marker styles, 
-legend, and labeling.
+legend, and labeling (see Data Visualization 101).
+The more interesting, the better!
 
 {: .note } 
-> Further scope is still tbd
+> Your poster needs to include at least __three__ different kind of plots.
+> A simple bar- or line-plot is not sufficient. 
 
 
 ## Getting to know the Dataset and the EDA
@@ -92,9 +104,9 @@ So to get started, you should first get to know the dataset.
 To give you a head start, there are some predefined questions you can 
 answer, to get an initial understanding of the dataset.
 
-To start off, use 
+To start off, use
 [**this Jupyter Notebook**{: .label .label-green }](../assets/course_material/notebooks/FinalProject_EDA.ipynb).
-This notebook contains some initial questions and code snippets to get you
+The notebook contains some initial questions and code snippets to get you
 started with the dataset.
 
 **Done with those questions?** 
@@ -147,8 +159,8 @@ Before the presentation, the poster has to be submitted as a PDF via
 ### Poster Session
 The presentation during the poster session is not fully mandatory for the 
 course completion (however, [Syllabus, Attendance](../about/#attendance) still 
-applies), however, the presentation has substantional account to the overall 
-grade (see [Syllabus](../about/)).
+applies), however, the presentation has substantial account to the overall 
+grade (see [AAIP Syllabus](../about/) or [DAPIL Syllabus](https://elearn.fh-salzburg.ac.at/pluginfile.php/68377/mod_resource/content/4/syllabus.pdf)).
 
 **How will this poster session work?**
 The poster session will be on site in the last class (date, time and place 
