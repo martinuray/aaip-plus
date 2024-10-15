@@ -13,9 +13,9 @@ Oct 9
   [Python Guide - Structuring Python Projects](https://docs.python-guide.org/writing/structure/)
 
 Oct 16
-: Intro to Python II
-  : -
+: [Intro to Python II](../assets/course_material/notebooks/02_PythonPrimer_II.ipynb)
+  : [Exercise Sheet for next Session](../assets/course_material/pdf/python_exercises.pdf)
 
 Oct 23
-: **Lab**{: .label .label-purple } Python III
+: **Lab**{: .label .label-purple } [Python III](../assets/course_material/pdf/python_exercises.pdf)
   : -
