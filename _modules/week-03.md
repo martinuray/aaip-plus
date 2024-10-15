@@ -21,13 +21,14 @@ Jan 1
 : **No Class**{: .label .label-red } Holiday
 
 Jan 8
+: **No Class**{: .label .label-red } 
+
+Jan 15
 : **Lab**{: .label .label-purple } Decision Trees and Ensemble Methods
   : -
 
-Jan 15
+Jan 22
 : Neural Networks and implementation in Python
   : -
-
-Jan 22
 : **Lab**{: .label .label-purple } Neuronal Networks and PyTorch
   : -
