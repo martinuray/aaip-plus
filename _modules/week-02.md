@@ -3,12 +3,15 @@ title: Introduction to Data Analysis + Visualisation
 ---
 
 Oct 30
-: Numpy & Pandas
+: [Numpy & Pandas](../assets/course_material/notebooks/03_NumpyPandas.ipynb)
   : -
 
 Nov 6
 : Matplotlib, Seaborn & Plotly
   : -
+{% comment %}
+something about dashboards
+{% endcomment %}
 
 Nov 13
 : Visualization 101
