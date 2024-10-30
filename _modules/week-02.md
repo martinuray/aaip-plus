@@ -3,7 +3,7 @@ title: Introduction to Data Analysis + Visualisation
 ---
 
 Oct 30
-: [Numpy & Pandas](../assets/course_material/notebooks/03_NumpyPandas.ipynb)
+: [Numpy & Pandas](../assets/course_material/notebooks/03_NumpyPandas.ipynb),[Tick List](https://forms.office.com/e/virhbuiVsi)
   : -
 
 Nov 6
