@@ -3,15 +3,12 @@ title: Introduction to Data Analysis + Visualisation
 ---
 
 Oct 30
-: [Numpy & Pandas](../assets/course_material/notebooks/03_NumpyPandas.ipynb),[Tick List](https://forms.office.com/e/virhbuiVsi), [Check-Up](https://forms.office.com/e/M1fHgBXd2i)
+: [Numpy & Pandas](../assets/course_material/notebooks/03_NumpyPandas.ipynb)
   : -
 
 Nov 6
-: Matplotlib, Seaborn & Plotly
+: [Matplotlib, Seaborn & Plotly](../assets/course_material/notebooks/04_MatplotlibSeaborn.ipynb)
   : -
-{% comment %}
-something about dashboards
-{% endcomment %}
 
 Nov 13
 : Visualization 101
@@ -21,6 +18,9 @@ Nov 13
 [Introduction to the Project](../sites/project)
 {% endcomment %}
   : -
+{% comment %}
+something about dashboards
+{% endcomment %}
 
 Nov 20
 : **Lab**{: .label .label-purple } Categorical Data & Geographical Data
