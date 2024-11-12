@@ -12,7 +12,7 @@ Nov 6
 
 Nov 13
 : [Visualization 101](../assets/course_material/notebooks/05_Visualization101.ipynb)
-  : -
+  : [Exercise Sheet for next Session](../assets/course_material/pdf/cat_geo_data.pdf)
 : **Project**{: .label .label-green } [Introduction to the Project](../sites/project-plus)
   : -
 
