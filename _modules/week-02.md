@@ -16,14 +16,15 @@ Nov 13
 : **Project**{: .label .label-green } [Introduction to the Project](../sites/project-plus)
   : -
 
-{% comment %}
-something about dashboards
-{% endcomment %}
-
 Nov 20
-: **Lab**{: .label .label-purple } Categorical Data & Geographical Data
-  : -
+: **Lab**{: .label .label-purple } [Categorical Data & Geographical Data](../assets/course_material/pdf/cat_geo_data.pdf)
+  : [Exercise Sheet for next Session](#)
 
 Nov 27
 : **Lab**{: .label .label-purple } Continues Data & Time Series Data
   : -
+  
+  
+{% comment %}
+something about dashboards
+{% endcomment %}
