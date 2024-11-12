@@ -32,3 +32,7 @@ Jan 22
   : -
 : **Lab**{: .label .label-purple } Neuronal Networks and PyTorch
   : -
+  
+Jan 29
+: **Practical Machine Learning**{: .label .label-purple }
+  : -
