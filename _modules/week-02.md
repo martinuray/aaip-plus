@@ -13,8 +13,7 @@ Nov 6
 Nov 13
 : [Visualization 101](../assets/course_material/notebooks/05_Visualization101.ipynb)
   : -
-: **Project**{: .label .label-green } Introduction to the Project 
-[Introduction to the Project](../sites/project-plus)
+: **Project**{: .label .label-green } [Introduction to the Project](../sites/project-plus)
   : -
 
 {% comment %}
