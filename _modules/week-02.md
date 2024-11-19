@@ -18,10 +18,10 @@ Nov 13
 
 Nov 20
 : **Lab**{: .label .label-purple } [Categorical Data & Geographical Data](../assets/course_material/pdf/cat_geo_data.pdf)
-  : [Exercise Sheet for next Session](#)
+  : [Exercise Sheet for next Session](../assets/course_material/pdf/cont_time_data.pdf)
 
 Nov 27
-: **Lab**{: .label .label-purple } Continues Data & Time Series Data
+: **Lab**{: .label .label-purple } [Continues Data & Time Series Data](../assets/course_material/pdf/cont_time_data.pdf)
   : -
   
   
