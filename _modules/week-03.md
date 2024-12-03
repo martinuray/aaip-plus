@@ -4,7 +4,7 @@ title: Hands-On Machine Learning
 
 Dec 4
 : Machine Learning with Python (sklearn)
-  : -
+  : [The CRISP DM Lifecycle](https://www.datascience-pm.com/crisp-dm-2/)
 
 Dec 11
 : **No Class**{: .label .label-red }
