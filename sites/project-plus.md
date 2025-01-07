@@ -150,9 +150,14 @@ You will present your project in your video. It is necessary that you and your p
 > Keep your video to a length of maximum 5 minutes.
 
 ### Poster Submission
-Before the deadline, the poster has to be submitted as a PDF via
+Before the deadline, the poster has to be submitted as a PDF and the video as a mp4 via
 [this OneDrive Folder](https://plusacat-my.sharepoint.com/:f:/g/personal/martin_uray_plus_ac_at/Eiy1aLq4TW1Luey7Gd0ml6cB9-Yit0P4dvwr7V5ePzvhXQ); 
-**Deadline:** 2025-01-31, 11.59 pm.
+
+- **Deadline:** 2025-01-31, 11.59 pm.
+- **Naming Convention:** all files have to follow a naming convention. Both files **must** have the same file name, only the extension differs.
+The structure is <last_name>_<first_name>.{pdf|mp4}
+
+E.g., I would upload a *uray_martin.pdf* and a *uray_martin.mp4*.
 
 {: .important }
 > The submission links will close at the communicated time and students will 
