@@ -24,7 +24,10 @@ Jan 1
 Jan 8
 : [Decision Trees](../assets/course_material/pdf/slides_dt.pdf)
   : -
+: [In-Class Notes](../assets/course_material/pdf/20250108_lecture_notes_dt.pdf)
+  : -
 : **In-Class Exercises**{: .label .label-blue } [Play Tennis Example](../assets/course_material/pdf/dt_play_tennis_hands-on.pdf)
+
   : [Exercise Sheet for next Session](../assets/course_material/pdf/classical_ml.pdf)
 
 Jan 15
