@@ -4,9 +4,7 @@ title: Hands-On Machine Learning
 
 Dec 4
 : [Machine Learning with Python (sklearn)](../assets/course_material/notebooks/06_MachineLearning-Basicssklearn.ipynb)
-{% comment %}
-  : [The CRISP DM Lifecycle](https://www.datascience-pm.com/crisp-dm-2/)
-{% endcomment %}
+  : -
 
 Dec 11
 : **No Class**{: .label .label-red }
@@ -32,7 +30,7 @@ Jan 8
 
 Jan 15
 : **Lab**{: .label .label-purple } [Decision Trees and Ensemble Methods](../assets/course_material/pdf/classical_ml.pdf)
-  : -
+  : [The CRISP DM Lifecycle](https://www.datascience-pm.com/crisp-dm-2/)
 
 Jan 22
 : Neural Networks and implementation in Python
