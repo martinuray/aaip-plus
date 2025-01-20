@@ -2,6 +2,6 @@
 title: Project
 ---
   
-  Jan 29
+  Jan 31
 : **Submission of Project**{: .label .label-green } Final Project Submission Deadline
   : -
