@@ -37,11 +37,9 @@ Jan 15
   : [The CRISP DM Lifecycle](https://www.datascience-pm.com/crisp-dm-2/)
 
 Jan 22
-: Neural Networks and implementation in Python
-  : -
-: **Lab**{: .label .label-purple } Neuronal Networks and PyTorch
-  : -
+: [Neural Networks and implementation in Python](../assets/course_material/notebooks/07_NeuralNetworks.ipynb)
+  : [Exercise Sheet for next Session](../assets/course_material/pdf/05_DeepLearning.pdf)
   
 Jan 29
-: **Practical Machine Learning**{: .label .label-purple }
+: **Exercises**{: .label .label-purple } [Practical Deep Learning](../assets/course_material/pdf/05_DeepLearning.pdf)
   : -
